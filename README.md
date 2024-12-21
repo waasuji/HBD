@@ -1,39 +1,27 @@
-## 🎉 Birthday Greeting Webpage 
+# 💖 จีบเธอ - เกมขอความรักจากแฟน 💖
+## 🎮 วิธีเล่น
 
-[Demo](https://fajarghifar.github.io/happybirthday/)
+1. เข้าไปที่ [จีบเธอ Game](https://axiostq.github.io/game-y-n/)
 
-## 🚀 How to Use
+4. ถ้าคุณลองกดปุ่ม... เอ่อ ... ลองดูสิว่าจะเกิดอะไรขึ้น! 😉
 
-1.  **Clone Repository**
+## 💻 เทคโนโลยีที่ใช้
 
-    ```bash
-    # Clone this repository or download it
-    $ git clone https://github.com/fajarghifar/happybirthday
+- HTML
+- CSS
+- JavaScript
+  
+## 👨‍💻 การพัฒนา
+สนใจที่จะลองทำบ้างลอง Pull Requests! โดยลองทำตามขั้นตอนนี้:
+1. เปิด command prompt
+2. ใช้คำสั่ง git clone https://github.com/axiostq/game-y-n.git
+3. รันได้เลย!!
 
-    # Go into the repository
-    $ cd happybirthday
 
-    # Open it with your text editor
-    $ code .
-    ```
+## 📬 ติดต่อ
+[Tiktok](https://www.tiktok.com/@axiostq)
 
-2. **Open with Live Server**
 
-    Your site is now running!
+---
 
-3. **Deployment**
-
-    To make your site online, you can enable GitHub Pages for the repository (Settings -> Pages). Alternatively, you can use [Netlify](https://www.netlify.com/).
-
-## 📝 Contributing
-
-If you have any ideas to make it more interesting, please submit a pull request or create an issue for a feature request.
-
-## 🤝 License
-
-### [MIT](LICENSE)
-
-> Github [@fajarghifar](https://github.com/fajarghifar) &nbsp;&middot;&nbsp;
-> Youtube [@fajarghifar](https://www.youtube.com/@fajarghifar/) &nbsp;&middot;&nbsp;
-> Instagram [@fajarghifar](https://instagram.com/fajarghifar) &nbsp;&middot;&nbsp;
-> Linkedin [@fajarghifar](https://www.linkedin.com/in/fajarghifar/)
+สร้างด้วย ❤️ โดย Axoistq
